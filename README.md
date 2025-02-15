@@ -1,2 +1,19 @@
 # router-noip-netgear-updater
-Changes IP in NOIP to Netgear router WAN value
+
+About
+===
+
+Changes the IP address in No-IP to the Netgear router's WAN value.
+
+
+Usage
+===
+
+```
+chmod +x get-router-ip.sh
+./get-router-ip.sh 
+```
+
+Requirments
+===
+Install noip2 tool
