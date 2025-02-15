@@ -16,4 +16,4 @@ chmod +x get-router-ip.sh
 
 Requirments
 ===
-Install noip2 tool
+Install noip2, curl, html2text tools
